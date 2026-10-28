@@ -1,0 +1,11 @@
+{
+  "org": "Textualize",
+  "repo": "textual-plotext",
+  "versions": [
+    {
+      "commit": "9fa23e7c486c69654b85445fe90bcb53c218925b",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:22:41.006702+00:00"
+    }
+  ]
+}
